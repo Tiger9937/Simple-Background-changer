@@ -1,0 +1,29 @@
+.mainbox{
+    width: 100vw;
+    height: 100vh;
+    background: #000000;
+    display: flex;
+}
+.master{
+    width: 150px;
+    height: 600px;
+    background: #f14949;
+}
+.dev{
+    width: 150px;
+    height: 600px;
+    height: 2m;
+    background: #4976f1;
+}
+.commit{
+    margin: 25px;
+    width: 100px;
+    height: 100px;
+    background: #ffffff;
+    border-radius: 10em;
+    color: #242425;
+    
+}
+.titel{
+    margin-left: 40px
+}
