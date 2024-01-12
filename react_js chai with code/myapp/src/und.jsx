@@ -26,16 +26,20 @@ function Und() {
   };
     return (
     <>
-    <h1 className="bg-red-400">Count value :{count}</h1>
-    <Card name="hello"/>
-    <Card name="react"/>
+    <Card name="hello" imgNo={`${count}`}/>
+
+    <div className="d-flex justify-content-center">
     
-    <button 
+    <div 
+      onClick={remove_value} type="button"
+    > <img src="./img/arrow_remove.png" alt=""/> </div>
+    <h3 className="bg-red-400">Count value :{count}</h3>
+    <div
       onClick={add_value}
-    >add</button>
-    <button
-      onClick={remove_value}
-    >remove</button>
+    > <img src="./img/arrow_add.png" alt=""/></div>
+    </div>
+
+
     </>
   );
 }

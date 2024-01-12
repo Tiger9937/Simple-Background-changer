@@ -1,12 +1,12 @@
 import React from 'react'
 
-export default function card() {
+export default function card(props) {
     return (
         <>
-            <div class="card">
-                <div class="card-body">
-                <img src="logo512.png" alt="" />
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <div className="card m-3 bg-black" style={{width: "82rem" , height: "35rem"}}>
+                <div className="card-body">
+                            <img src={`./img/1 (${props.imgNo}).png`} alt="" />
+                    <p className="card-text text-white">astronaut with a delivery man's bag on his back an</p>
                 </div>
             </div>
         </>
