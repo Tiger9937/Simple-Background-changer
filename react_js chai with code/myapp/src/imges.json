@@ -3,13 +3,64 @@
     "items": [
       {
         "id": 1,
-        "name": "Item 1",
-        "description": "./jaga1.png"
+        "name": "indian scientist on Moon with Indian Flag under",
+        "directory": "./img/1 (1).png"
       },
       {
         "id": 2,
-        "name": "Item 2",
-        "description": "./jaga2.jpg"
-      }]
+        "name": "astronaut with a delivery man's bag on his back an",
+        "directory": "./img/1 (2).png"
+      },
+      {
+        "id": 3,
+        "name": "indian girl in futuristic world on mars",
+        "directory": "./img/1 (3).png"
+      },
+      {
+        "id": 4,
+        "name": "indian girl in futuristic world",
+        "directory": "./img/1 (4).png"
+      },
+      {
+        "id": 5,
+        "name": "4 enfants sont sur la lune",
+        "directory": "./img/1 (5).png"
+      },
+      {
+        "id": 6,
+        "name": "astronaut with a delivery man's bag on his back an",
+        "directory": "./img/1 (6).png"
+      },
+      {
+        "id": 7,
+        "name": "astronaut with a delivery man's bag on his back an",
+        "directory": "./img/1 (7).png"
+      },
+      {
+        "id": 8,
+        "name": "astronaut with a delivery man's bag on his back an",
+        "directory": "./img/1 (8).png"
+      },
+      {
+        "id": 9,
+        "name": "astronaut with a delivery man's bag on his back an",
+        "directory": "./img/1 (9).png"
+      },
+      {
+        "id": 10,
+        "name": "astronaut with a delivery man's bag on his back an",
+        "directory": "./img/1 (10).png"
+      },
+      {
+        "id": 11,
+        "name": "astronaut with a delivery man's bag on his back an",
+        "directory": "./img/1 (11).png"
+      },
+      {
+        "id": 12,
+        "name": "astronaut with a delivery man's bag on his back an",
+        "directory": "./img/1 (12).png"
+      }
+    ]
   }
   
